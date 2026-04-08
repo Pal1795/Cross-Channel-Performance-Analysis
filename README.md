@@ -7,15 +7,18 @@ The data is modeled across five BigQuery objects — a unified base table and fo
 
 **Project Structure:**
 
-<img width="686" height="440" alt="Screenshot 2026-04-08 at 12 10 11 PM" src="https://github.com/user-attachments/assets/a8c481ac-722c-4947-93b5-6d2cb7e38e96" />
+<img width="578" height="278" alt="Screenshot 2026-04-08 at 12 19 40 PM" src="https://github.com/user-attachments/assets/887e3081-0e6e-4db6-ae65-8552de515e62" />
+
 
 **Architecture:**
 
-<img width="697" height="375" alt="Screenshot 2026-04-08 at 12 10 26 PM" src="https://github.com/user-attachments/assets/a688ad17-ee66-4d64-9761-7d3a5e5ec420" />
+<img width="466" height="306" alt="Screenshot 2026-04-08 at 12 20 05 PM" src="https://github.com/user-attachments/assets/fab350cc-a726-477e-9183-00ec590488c9" />
+
 
 **Key Findings:**
 
-<img width="712" height="215" alt="Screenshot 2026-04-08 at 12 10 43 PM" src="https://github.com/user-attachments/assets/2e5e9f87-655c-460a-ba28-a2c188c20883" />
+<img width="672" height="157" alt="Screenshot 2026-04-08 at 12 20 17 PM" src="https://github.com/user-attachments/assets/8bda5727-bc94-45b5-a687-c3605139ef95" />
+
 
 Note: ROAS is Google-only. Facebook and TikTok do not return conversion value data. CPA is used as the primary cross-channel efficiency metric.
 
